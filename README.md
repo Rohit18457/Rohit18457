@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rohit</h1>
+<h1 align="center">Hi 👋, I'm Rohit Suryawanshi</h1>
 <h3 align="center">A passionate Full Stack Developer & AI Enthusiast from India 🇮🇳</h3>
 
 <p align="center">
@@ -85,7 +85,7 @@
   <a href="mailto:rohitsuryawanshi775682@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/rohit-suryawanshi-816281290/" target="_blank">
+  <a href="https://www.linkedin.com/in/rohit-suryawanshi-dev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://x.com/RohitSu82354817" target="_blank">
